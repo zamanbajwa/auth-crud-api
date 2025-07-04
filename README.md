@@ -29,7 +29,7 @@ A robust, modern RESTful API for user authentication and profile management, bui
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/zamanbajwa/auth-crud-api.git
 cd auth-crud-api
 ```
 
